@@ -12,11 +12,11 @@
       },
       {
         "package": "SmokeHTTP",
-        "repositoryURL": "https://github.com/amzn/smoke-http.git",
+        "repositoryURL": "https://github.com/t089/smoke-http.git",
         "state": {
-          "branch": null,
-          "revision": "60bc2c4c88700ff46f2cfd1f766c4ac8319488a9",
-          "version": "1.0.0"
+          "branch": "async-http-client",
+          "revision": "2b242a1b3b70de1bc36b36dc24564a39d4a13ad8",
+          "version": null
         }
       },
       {
@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio.git",
         "state": {
           "branch": null,
-          "revision": "29a9f2aca71c8afb07e291336f1789337ce235dd",
-          "version": "1.13.2"
+          "revision": "ba7970fe396e8198b84c6c1b44b38a1d4e2eb6bd",
+          "version": "1.14.1"
         }
       },
       {
